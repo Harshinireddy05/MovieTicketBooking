@@ -15,7 +15,7 @@ const HomePage = () => {
     <Box width={"100%"} height="100%" margin="auto" marginTop={2}>
       <Box margin={"auto"} width="80%" height={"40vh"} padding={2}>
         <img
-          src="https://i.ytimg.com/vi/yEinBUJG2RI/maxresdefault.jpg"
+          src="https://i.pinimg.com/originals/35/c2/f7/35c2f7b9a792912d821562679777e2b9.jpg"
           alt="Rocketry"
           width={"100%"}
           height={"100%"}

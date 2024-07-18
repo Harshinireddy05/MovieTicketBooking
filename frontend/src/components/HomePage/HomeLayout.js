@@ -17,7 +17,7 @@ const HomeLayout = () => {
     <Box width="100%" height="100vh" marginTop={2} margin="auto">
       <Box margin={"auto"} width="80%" height="40%" padding={2} display="flex">
         <img
-          src="https://i.pinimg.com/originals/35/c2/f7/35c2f7b9a792912d821562679777e2b9.jpg"
+          src="https://res.cloudinary.com/dk22rcdch/image/upload/v1633663664/evade-subrahmanyam_zqzv9v.jpg"
           alt="Evade Subrahmanyam"
           width="100%"
           height="100%"
